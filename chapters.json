@@ -1,9 +1,42 @@
 [
- {"file":"the_humble_bok_choy.pdf","title":"The Humble Bok Choy","desc":"The little cabbage that wilts into soups, stir-fries and steamers in minutes."},
- {"file":"the_patient_navy_bean.pdf","title":"The Patient Navy Bean","desc":"The small white bean that fed sailors, soaked, simmered and pressure-cooked."},
- {"file":"the_mighty_broccoli.pdf","title":"The Mighty Broccoli","desc":"Florets and stems, steamed, roasted and stir-fried, with real Thai prices."},
- {"file":"the_4_best_beans.pdf","title":"The 4 Best Beans","desc":"Navy, black, kidney and edamame: cooking times, recipes and a side-by-side table."},
- {"file":"the_golden_egg.pdf","title":"The Golden Egg","desc":"A little sun you can crack into a pan, from Instant Pot eggs to century eggs."},
- {"file":"the_steadfast_potato.pdf","title":"The Steadfast Potato","desc":"The tuber that turns into a stew, a brunch, and anything in between."},
- {"file":"the_living_yogurt.pdf","title":"The Living Yogurt","desc":"One of the oldest living foods, plus air-fried yogurt chicken."}
+ {
+  "file": "the_humble_bok_choy.pdf",
+  "title": "The Humble Bok Choy",
+  "desc": "The little cabbage that wilts into soups, stir-fries and steamers in minutes."
+ },
+ {
+  "file": "the_patient_navy_bean.pdf",
+  "title": "The Patient Navy Bean",
+  "desc": "The small white bean that fed sailors, soaked, simmered and pressure-cooked."
+ },
+ {
+  "file": "the_mighty_broccoli.pdf",
+  "title": "The Mighty Broccoli",
+  "desc": "Florets and stems, steamed, roasted and stir-fried, with real Thai prices."
+ },
+ {
+  "file": "the_4_best_beans.pdf",
+  "title": "The 4 Best Beans",
+  "desc": "Navy, black, kidney and edamame: cooking times, recipes and a side-by-side table."
+ },
+ {
+  "file": "the_golden_egg.pdf",
+  "title": "The Golden Egg",
+  "desc": "A little sun you can crack into a pan, from Instant Pot eggs to century eggs."
+ },
+ {
+  "file": "the_steadfast_potato.pdf",
+  "title": "The Steadfast Potato",
+  "desc": "The tuber that turns into a stew, a brunch, and anything in between."
+ },
+ {
+  "file": "the_living_yogurt.pdf",
+  "title": "The Living Yogurt",
+  "desc": "One of the oldest living foods, plus air-fried yogurt chicken."
+ },
+ {
+  "file": "the_mighty_salmon.pdf",
+  "title": "The Mighty Salmon",
+  "desc": "Omega-3s, vitamin D and a swimmer's fish, from freezer to air fryer."
+ }
 ]
